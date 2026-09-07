@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://firstclasslies.github.io/sitemap.xml
